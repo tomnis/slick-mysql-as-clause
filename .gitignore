@@ -1,2 +1,13 @@
 *.class
 *.log
+
+data
+build
+.gradle
+*.iml
+*.ipr
+*.iws
+*.swp
+
+codegen/target
+codegen/project
